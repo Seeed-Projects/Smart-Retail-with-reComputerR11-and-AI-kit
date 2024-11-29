@@ -1,0 +1,12 @@
+{
+    "detection_threshold": 0.1,
+    "max_boxes":200,
+    "labels": [
+      " ",
+      "Coco",
+      "chips",
+      "crackers",
+      "crisps","milk",
+      "popcorn"
+      ]
+}
