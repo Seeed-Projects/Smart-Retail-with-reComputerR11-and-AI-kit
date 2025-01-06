@@ -12,6 +12,13 @@ All data and controls are consolidated into a Node-RED dashboard, providing an i
 
 ## First: set up your environment
 
+### Download the project
+
+```
+git clone https://github.com/Seeed-Projects/Smart-Retail-with-reComputerR11-and-AI-kit.git
+cd Smart-Retail-with-reComputerR11-and-AI-kit
+```
+
 ### Clone office example
 ```
 git clone https://github.com/hailo-ai/hailo-rpi5-examples.git
