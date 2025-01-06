@@ -1,0 +1,8 @@
+numpy<2.0.0
+setproctitle
+opencv-python
+colorlog
+flask
+argparse
+mediapipe
+
